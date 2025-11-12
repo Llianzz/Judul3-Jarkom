@@ -1,1 +1,3 @@
-# Judul3-Jarkom
+Pada Lab Packet Tracer - Configure VLANs and Trunking ini, dilakukan konfigurasi jaringan dengan menerapkan konsep VLAN dan trunking untuk memisahkan domain broadcast serta meningkatkan keamanan dan efisiensi jaringan. Kegiatan dimulai dengan membangun topologi jaringan dan melakukan konfigurasi dasar pada switch serta perangkat PC. Selanjutnya, dibuat beberapa VLAN seperti VLAN 10 untuk Operations dan VLAN 99 untuk Management, kemudian setiap port switch dikonfigurasi sesuai dengan VLAN yang ditentukan. Setelah itu, dilakukan konfigurasi trunk 802.1Q agar komunikasi antar perangkat dalam VLAN yang sama dapat berlangsung meskipun berada pada switch yang berbeda.
+
+Berikut Video Penjelasan : https://youtu.be/rqx13u1bgu8 
